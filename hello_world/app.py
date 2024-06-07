@@ -39,7 +39,7 @@ def lambda_handler(event, context):
             "fullname": "Herrera Hernandez Joel Alejandro",
             "grade": "9",
             "group": "A",
-            "message": "hello world",
+            "message": "hello world - aaaaa",
             # "location": ip.text.replace("\n", "")
         }),
     }
